@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there, I'm Brian Kipruto 👋</h1>
 <p align="center">
-  <em>[Your Catchy Tagline Here, e.g., Innovating with Technology for Environmental Solutions]</em>
+  <em>[The universe is under no obligation to make any sense to you.]</em>
 </p>
 
 
@@ -32,8 +32,6 @@ R.A.N.G.E.R. (Radiation Assessment & Navigation for Geographic Environmental Rec
 <p align="center">
   <img src="path/to/your/ranger_dashboard_demo.gif" alt="R.A.N.G.E.R. Demo GIF" width="600"/>
 </p>
-
-➡️ [Learn More / View Code (if public)](link-to-your-ranger-repo-or-project-page)
 
 ---
 
