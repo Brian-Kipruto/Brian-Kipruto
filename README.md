@@ -38,4 +38,4 @@ R.A.N.G.E.R. (Radiation Assessment & Navigation for Geographic Environmental Rec
 ### 📊 My GitHub Stats
 
 [![Kipruto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brian-Kipruto&show_icons=true&theme=radical)](https://github.com/Brian-Kipruto/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brian-Kipruto&layout=compact&theme=radical)](https://github.com/Brian-Kipruto/github-readme-stats)
