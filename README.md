@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[URL_TO_YOUR_BANNER_IMAGE_HERE]" alt="My Awesome Profile Banner" width="800"/>
+  <img src="[URL_TO_YOUR_BANNER_IMAGE_HERE]" alt="Profile Banner" width="800"/>
 </p>
 
 <h1 align="center">Hi there, I'm Brian Kipruto 👋</h1>
